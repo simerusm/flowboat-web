@@ -227,7 +227,7 @@ img {
 .team-block .inner-box:hover .social-icons li a,
 .team-block .inner-box:hover .lower-content .designation {
   color: #ffffff;
-  transition: color .3s ease;
+  transition: color 0.3s ease;
 }
 
 .team-block .inner-box .image {
@@ -273,7 +273,7 @@ img {
   margin-top: 5px;
   color: #777777;
   font-size: 14px;
-  transition: color .3s ease;
+  transition: color 0.3s ease;
 }
 
 .team-block.style-two .inner-box .lower-content h3 a,
