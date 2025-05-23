@@ -1,3 +1,3 @@
 # FlowboatWeb
 
-This is the Flowboat website from 2022-2024, created by Simerus Mahesh and Henry Lin. It has been moved to [here](https://github.com/FlowBoat/website-old).
+**THIS HAS BEEN MOVED TO [https://github.com/FlowBoat/flowboat-web](https://github.com/FlowBoat/flowboat-web)**
